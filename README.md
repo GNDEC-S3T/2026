@@ -58,13 +58,13 @@ Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 promotes <b>inn
 <b style="color:#003366;">Track 1 – Civil Engineering</b><br>
 <i>Sustainable Infrastructure & Resilient Built Environment</i>
 <ul>
-<li>Structural Health Monitoring</li>
-<li>Sustainable Construction Materials</li>
-<li>Smart Cities & Infrastructure</li>
-<li>Geotechnical Engineering</li>
-<li>Transportation Engineering</li>
-<li>Water Resources Engineering</li>
-<li>Disaster Mitigation</li>
+<li>Structural Health Monitoring & Retrofitting</li>
+<li>Durable & Sustainable Construction Materials</li>
+<li>Smart Cities & Urban Infrastructure</li>
+<li>Geotechnical Engineering & Ground Improvement Technologies</li>
+<li>Transportation Engineering & Smart Mobility</li>
+<li>Water Resources & Environmental Engineering</li>
+<li>Disaster Mitigation & Structural Safety</li>
 <li>Building Information Modelling</li>
 </ul>
 </td>
@@ -73,44 +73,43 @@ Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 promotes <b>inn
 <b style="color:#cc6600;">Track 2 – Electrical Engineering</b><br>
 <i>Smart Energy Systems & Electrification</i>
 <ul>
-<li>Renewable Energy Integration</li>
-<li>Smart Grids</li>
+<li>Renewable Energy Systems & Integration</li>
+<li>Smart Grids and Energy Storage</li>
 <li>Energy Storage Systems</li>
-<li>Power Electronics</li>
-<li>Electric Vehicles</li>
-<li>Energy Efficiency</li>
-<li>High Voltage Engineering</li>
-<li>Power System Protection</li>
+<li>Power Electronics & Drives</li>
+<li>Electric Vehicles and Charging Infrastructure</li>
+<li>Energy Efficiency and Sustainability</li>
+<li>High Voltage Engineering & Power Systems</li>
+<li>Smart and efficient electrical machines</li>
 </ul>
 </td>
 
 <td width="25%" valign="top" style="background:#eefbea; padding:18px; border-radius:10px;">
 <b style="color:#2c7a2c;">Track 3 – Electronics & Communication</b><br>
-<i>Future Electronics: AI, IoT & 6G</i>
+<i>Future-Ready Electronics: AI, IoT & 6G for Sustainable Innovation</i>
 <ul>
-<li>Embedded Systems</li>
-<li>Internet of Things</li>
-<li>Artificial Intelligence</li>
+<li>Sustainable & Green Electronics</li>
+<li>Embedded Systems & IoT</li>
+<li>AI/ML in Electronics</li>
 <li>VLSI & Nanoelectronics</li>
-<li>Biomedical Electronics</li>
-<li>5G & 6G Technologies</li>
-<li>Sensor Networks</li>
-<li>Edge Computing</li>
+<li>Biomedical & Healthcare Electronics</li>
+<li>5G and 6G communication technologies in RF and Optics</li>
+<li>Emerging Technologies</li>
 </ul>
 </td>
 
 <td width="25%" valign="top" style="background:#f4f0ff; padding:18px; border-radius:10px;">
 <b style="color:#5a3ea1;">Track 4 – Mechanical & Production</b><br>
-<i>Smart Manufacturing & Sustainable Systems</i>
+<i>Smart Manufacturing & Sustainable Mechanical Systems</i>
 <ul>
-<li>Smart Manufacturing</li>
-<li>Advanced Materials</li>
-<li>Renewable Energy Systems</li>
-<li>Sustainable Product Design</li>
-<li>Robotics & Automation</li>
-<li>Mechatronics</li>
+<li>Smart and Digital Manufacturing</li>
+<li>Advanced and Sustainable Materials Engineering</li>
+<li>Renewable and Thermal Energy Systems</li>
+<li>Sustainable Product Design and Lifecycle Engineering</li>
+<li>Robotics, Mechatronics and Intelligent Automation</li>
+<li>Computational Engineering and Multiphysics Simulation</li>
 <li>Computational Engineering</li>
-<li>Energy Decarbonization</li>
+<li>Energy Efficiency and Decarbonization in Mechanical Systems </li>
 </ul>
 </td>
 
@@ -123,9 +122,9 @@ Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 promotes <b>inn
 
 | Activity | Date |
 |------|------|
-| Abstract Submission Deadline | <s>15 March 2026</s> 20 March 2026 (extended) |
-| Abstract Acceptance | 21 March 2026 |
-| Registration Deadline | 22 March 2026 |
+| Abstract Submission Deadline | <s>15 March 2026</s> 18 March 2026 (extended) |
+| Abstract Acceptance | 20 March 2026 |
+| Registration Deadline | 21 March 2026 |
 | Full Paper Submission | 25 March 2026 |
 | Final Acceptance | 30 March 2026 |
 | Congress Dates | 07–08 April 2026 |
