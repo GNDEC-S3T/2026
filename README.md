@@ -191,10 +191,6 @@ All accepted and presented papers will be published in the **S3T 2026 Conference
 ## Organizing Committee <a name="organizing-committee"></a>
 
 <p align="center">
-<b>Patron / Advisor / Organizing</b>
-</p>
-
-<p align="center">
 Department of Civil Engineering<br>
 Department of Electrical Engineering<br>
 Department of Electronics & Communication Engineering<br>
