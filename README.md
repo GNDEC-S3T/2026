@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-<img src="assets/Banner_S3T.jpg" width="950">
+<img src="assets/Banner_S3T.png" width="950">
 </p>
 
 <p align="center">
