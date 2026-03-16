@@ -20,12 +20,12 @@
 </p>
 
 <p align="center">
-<a href="./"><b>Home</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="tracks.md"><b>Conference Tracks</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="brochure.pdf"><b>Brochure</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="template.md"><b>Full Paper Template</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="submission.md"><b>Submission</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="important_dates.md"><b>Important Dates</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="./"><b>Home</b></a> •
+<a href="tracks.md"><b>Tracks</b></a> •
+<a href="brochure.pdf"><b>Brochure</b></a> •
+<a href="template.md"><b>Full Paper Template</b></a> •
+<a href="submission.md"><b>Submission</b></a> •
+<a href="important_dates.md"><b>Important Dates</b></a> •
 <a href="contact.md"><b>Contact</b></a>
 </p>
 
@@ -33,94 +33,95 @@
 <img src="assets/Banner_S3T.png" width="950">
 </p>
 
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
+---
 
 <p align="center">
 
-The <b>Student Congress on Smart & Sustainable Technologies (S3T 2026)</b> is a multidisciplinary academic event hosted at <b>Guru Nanak Dev Engineering College, Ludhiana</b>.
+The <b>Student Congress on Smart & Sustainable Technologies (S3T 2026)</b> is a multidisciplinary academic event hosted at  
+<b>Guru Nanak Dev Engineering College, Ludhiana</b>.
 
 The congress provides a platform for <b>undergraduate students, postgraduate students, and research scholars</b> to present innovative ideas, research findings, and engineering solutions addressing real-world challenges.
 
-Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 aims to foster <b>innovation, sustainability, and interdisciplinary collaboration</b> among the next generation of engineers.
+Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 promotes <b>innovation, sustainability, and interdisciplinary collaboration</b> among the next generation of engineers.
 
 </p>
 
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
+---
 
-## Conference Themes & Tracks
+# Conference Themes & Tracks
 
-<table align="center">
+<table>
 <tr>
 
-<td width="25%" valign="top">
+<td width="25%" style="background:#eef6ff; padding:15px; border-radius:10px;">
 
-### Civil Engineering
+<b style="color:#003366;">Civil Engineering</b><br>
+<i>Sustainable Infrastructure & Resilient Built Environment</i>
 
-<b>Theme:</b> Sustainable Infrastructure & Resilient Built Environment
-
-• Structural Health Monitoring & Retrofitting
-• Durable & Sustainable Construction Materials
-• Smart Cities & Urban Infrastructure
-• Geotechnical Engineering & Ground Improvement
-• Transportation Engineering & Smart Mobility
-• Water Resources & Environmental Engineering
-• Disaster Mitigation & Structural Safety
-• Building Information Modelling (BIM)
-
-</td>
-
-<td width="25%" valign="top">
-
-### Electrical Engineering
-
-<b>Theme:</b> Smart Energy Systems & Electrification
-
-• Renewable Energy Systems & Integration
-• Smart Grids & Energy Storage
-• Power Electronics & Drives
-• Electric Vehicles & Charging Infrastructure
-• Energy Efficiency & Sustainability
-• High Voltage Engineering
-• Power System Protection & Control
-• Smart Electrical Machines
+<ul>
+<li>Structural Health Monitoring</li>
+<li>Sustainable Construction Materials</li>
+<li>Smart Cities & Infrastructure</li>
+<li>Geotechnical Engineering</li>
+<li>Transportation Engineering</li>
+<li>Water Resources Engineering</li>
+<li>Disaster Mitigation</li>
+<li>Building Information Modelling</li>
+</ul>
 
 </td>
 
-<td width="25%" valign="top">
+<td width="25%" style="background:#fff5e6; padding:15px; border-radius:10px;">
 
-### Electronics & Communication Engineering
+<b style="color:#cc6600;">Electrical Engineering</b><br>
+<i>Smart Energy Systems & Electrification</i>
 
-<b>Theme:</b> Future-Ready Electronics: AI, IoT & 6G
-
-• Sustainable & Green Electronics
-• Embedded Systems & IoT
-• Artificial Intelligence & Machine Learning
-• VLSI & Nanoelectronics
-• Biomedical & Healthcare Electronics
-• 5G & 6G Communication Technologies
-• Sensor Networks & Edge Computing
-• Emerging Electronic Technologies
+<ul>
+<li>Renewable Energy Integration</li>
+<li>Smart Grids</li>
+<li>Energy Storage Systems</li>
+<li>Power Electronics</li>
+<li>Electric Vehicles</li>
+<li>Energy Efficiency</li>
+<li>High Voltage Engineering</li>
+<li>Power System Protection</li>
+</ul>
 
 </td>
 
-<td width="25%" valign="top">
+<td width="25%" style="background:#eefbea; padding:15px; border-radius:10px;">
 
-### Mechanical & Production Engineering
+<b style="color:#2c7a2c;">Electronics & Communication</b><br>
+<i>Future Electronics: AI, IoT & 6G</i>
 
-<b>Theme:</b> Smart Manufacturing & Sustainable Mechanical Systems
+<ul>
+<li>Embedded Systems</li>
+<li>Internet of Things</li>
+<li>Artificial Intelligence</li>
+<li>VLSI & Nanoelectronics</li>
+<li>Biomedical Electronics</li>
+<li>5G & 6G Technologies</li>
+<li>Sensor Networks</li>
+<li>Edge Computing</li>
+</ul>
 
-• Smart & Digital Manufacturing
-• Advanced & Sustainable Materials
-• Renewable & Thermal Energy Systems
-• Sustainable Product Design
-• Robotics & Intelligent Automation
-• Mechatronics & Control Systems
-• Computational Engineering
-• Energy Efficiency & Decarbonization
+</td>
+
+<td width="25%" style="background:#f4f0ff; padding:15px; border-radius:10px;">
+
+<b style="color:#5a3ea1;">Mechanical & Production</b><br>
+<i>Smart Manufacturing & Sustainable Systems</i>
+
+<ul>
+<li>Smart Manufacturing</li>
+<li>Advanced Materials</li>
+<li>Renewable Energy Systems</li>
+<li>Sustainable Product Design</li>
+<li>Robotics & Automation</li>
+<li>Mechatronics</li>
+<li>Computational Engineering</li>
+<li>Energy Decarbonization</li>
+</ul>
 
 </td>
 
@@ -129,69 +130,66 @@ Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 aims to foster 
 
 ---
 
-## Important Dates
+# Important Dates
 
-| Activity                         | Date                 |
-| -------------------------------- | -------------------- |
-| Abstract Submission Deadline     | **~15 March 2026~ 20 March 2026**    |
-| Abstract Acceptance Notification | **21 March 2026**    |
-| Registration Deadline            | **22 March 2026**    |
-| Full Paper Submission Deadline   | **25 March 2026**    |
-| Final Acceptance Notification    | **30 March 2026**    |
-| Congress Dates                   | **07–08 April 2026** |
+| Activity | Date |
+|------|------|
+| Abstract Submission Deadline | **15 March 2026** |
+| Abstract Acceptance | **18 March 2026** |
+| Registration Deadline | **20 March 2026** |
+| Full Paper Submission | **25 March 2026** |
+| Final Acceptance | **30 March 2026** |
+| Congress Dates | **07–08 April 2026** |
 
 ---
 
-## Paper Submission
+# Paper Submission
 
 Authors are invited to submit **4–5 page technical papers** related to the conference themes.
 
 Accepted submissions may include:
 
-* Review Papers
-* Experimental Studies
-* Case Studies
-* Technology Development Papers
-* Analytical or Conceptual Studies
+- Review Papers  
+- Experimental Studies  
+- Case Studies  
+- Technology Development  
+- Analytical Studies  
 
-All accepted and presented papers will be published in the **S3T 2026 Conference Proceedings (ISBN).**
+All accepted and presented papers will be published in the  
+**S3T 2026 Conference Proceedings (ISBN).**
 
 ---
 
-## Conference Fee
+# Conference Fee
 
-| Category          | Fee  |
-| ----------------- | ---- |
-| UG/PG Students    | ₹100 |
+| Category | Fee |
+|------|------|
+| UG / PG Students | ₹100 |
 | Research Scholars | ₹100 |
 
 ---
 
-<p align="center">
-
-### Quick Links
-
-</p>
+# Quick Links
 
 <p align="center">
 
-<a href="Downloads/Brochure_S3T-2026.png">
+<a href="brochure.pdf">
 <img src="https://img.shields.io/badge/Download-Brochure-purple?style=for-the-badge">
 </a>
 
-  
+&nbsp;
 
-<a href="Full_Paper_Template.docx">
+<a href="template.md">
 <img src="https://img.shields.io/badge/Download-Full%20Paper%20Template-blue?style=for-the-badge">
 </a>
 
-  
+&nbsp;
 
 <a href="submission.md">
 <img src="https://img.shields.io/badge/Submit-Paper-green?style=for-the-badge">
 </a>
 
-  
+&nbsp;
 
 <a href="tracks.md">
 <img src="https://img.shields.io/badge/View-Conference%20Tracks-orange?style=for-the-badge">
@@ -202,14 +200,14 @@ All accepted and presented papers will be published in the **S3T 2026 Conference
 ---
 
 <p align="center">
-<b>Organized by</b>
-</p>
 
-<p align="center">
+<b>Organized by</b><br><br>
+
 Department of Civil Engineering<br>
 Department of Electrical Engineering<br>
 Department of Electronics & Communication Engineering<br>
 Department of Mechanical & Production Engineering
+
 </p>
 
 <p align="center">
@@ -217,9 +215,9 @@ Department of Mechanical & Production Engineering
 </p>
 
 <p align="center">
-<b>Innovation • Sustainability • Engineering for the Future</b>
+Innovation • Sustainability • Engineering for the Future
 </p>
 
 <p align="center">
-© 2026 S3T Congress | Guru Nanak Dev Engineering College, Ludhiana
+© 2026 S3T Congress | GNDEC Ludhiana
 </p>
