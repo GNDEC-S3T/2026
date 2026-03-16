@@ -175,13 +175,13 @@ All accepted and presented papers will be published in the **S3T 2026 Conference
 
 <p align="center">
 
-<a href="brochure.pdf">
+<a href="Downloads/Brochure_S3T-2026.png">
 <img src="https://img.shields.io/badge/Download-Brochure-purple?style=for-the-badge">
 </a>
 
   
 
-<a href="template.md">
+<a href="Full_Paper_Template.docx">
 <img src="https://img.shields.io/badge/Download-Full%20Paper%20Template-blue?style=for-the-badge">
 </a>
 
