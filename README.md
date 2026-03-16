@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/gndec_logo.png" width="120">
+<img src="assets/gne_new_logo.png" width="120">
 </p>
 
 <h1 align="center">S3T 2026</h1>
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-<img src="assets/conference_banner.jpg" width="950">
+<img src="assets/Banner_S3T.jpg" width="950">
 </p>
 
 <p align="center">
