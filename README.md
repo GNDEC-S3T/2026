@@ -187,136 +187,115 @@ All accepted and presented papers will be published in the **S3T 2026 Conference
 
 ---
 
-Here is your **fully formatted, clean 4-column layout with all names included** (icons removed, properly structured, and space-optimized for website/brochure):
-
----
-
 ## Organizing Committee <a name="organizing-committee"></a>
 
-<div align="center">
+<style>
+.grid-4 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  text-align: center;
+}
+.section-box {
+  padding: 10px;
+  border-radius: 8px;
+  background: #f5f7fa;
+}
+.section-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
+</style>
 
-### **Chief Patron**
+### <div class="section-title">Chief Patron</div>
 
-**Dr. Sehijpal Singh**
-*Principal, GNDEC, Ludhiana*
+<div class="grid-4">
+<div class="section-box">
+Dr. Sehijpal Singh<br>
+<sub>Principal, GNDEC Ludhiana</sub>
+</div>
+</div>
 
----
+### <div class="section-title">Patrons</div>
 
-### **Patrons**
+<div class="grid-4">
+<div class="section-box">Dr. Jagbir Singh<br><sub>(HoD, CE)</sub></div>
+<div class="section-box">Dr. Munish Rattan<br><sub>(HoD, ECE)</sub></div>
+<div class="section-box">Dr. Kanwardeep Singh<br><sub>(HoD, EE)</sub></div>
+<div class="section-box">Dr. Harmeet Singh<br><sub>(HoD, MPE)</sub></div>
+</div>
 
-<table width="100%">
-<tr>
-<td align="center">Dr. Jagbir Singh<br><sub>(HoD, CE)</sub></td>
-<td align="center">Dr. Munish Rattan<br><sub>(HoD, ECE)</sub></td>
-<td align="center">Dr. Kanwardeep Singh<br><sub>(HoD, EE)</sub></td>
-<td align="center">Dr. Harmeet Singh<br><sub>(HoD, MPE)</sub></td>
-</tr>
-</table>
+### <div class="section-title">Convenors</div>
 
----
+<div class="grid-4">
+<div class="section-box">Dr. Yuvraj Singh<br><sub>(CE)</sub></div>
+<div class="section-box">Dr. Gurpuneet Kaur<br><sub>(ECE)</sub></div>
+<div class="section-box">Dr. Chahat Jain<br><sub>(ECE)</sub></div>
+<div class="section-box">Dr. Arvind Dhingra<br><sub>(EE)</sub></div>
 
-### **Convenors**
+<div class="section-box">Dr. Raman Kumar<br><sub>(MPE)</sub></div>
+<div class="section-box">Dr. Chamkaur Jindal<br><sub>(MPE)</sub></div>
+</div>
 
-<table width="100%">
-<tr>
-<td align="center">Dr. Yuvraj Singh<br><sub>(CE)</sub></td>
-<td align="center">Dr. Gurpuneet Kaur<br><sub>(ECE)</sub></td>
-<td align="center">Dr. Chahat Jain<br><sub>(ECE)</sub></td>
-<td align="center">Dr. Arvind Dhingra<br><sub>(EE)</sub></td>
-</tr>
-<tr>
-<td align="center">Dr. Raman Kumar<br><sub>(MPE)</sub></td>
-<td align="center">Dr. Chamkaur Jindal<br><sub>(MPE)</sub></td>
-<td></td>
-<td></td>
-</tr>
-</table>
+### <div class="section-title">Advisory Committee</div>
 
----
+<div class="grid-4">
+<div class="section-box">Dr. Harvinder Singh<br><sub>(Dean, R&C)</sub></div>
+<div class="section-box">Dr. Puneetpal Singh Cheema<br><sub>(CE)</sub></div>
+<div class="section-box">Dr. Prashant Garg<br><sub>(CE)</sub></div>
+<div class="section-box">Dr. Narwant Singh Grewal<br><sub>(ECE)</sub></div>
 
-### **Advisory Committee**
+<div class="section-box">Dr. Baljeet Kaur<br><sub>(ECE)</sub></div>
+<div class="section-box">Pf. Preetinder Singh<br><sub>(EE)</sub></div>
+<div class="section-box">Er. Rupinderjit Singh<br><sub>(EE)</sub></div>
+<div class="section-box">Dr. Jasmaninder Singh Grewal<br><sub>(MPE)</sub></div>
 
-<table width="100%">
-<tr>
-<td align="center">Dr. Harvinder Singh<br><sub>(Dean, R&C)</sub></td>
-<td align="center">Dr. Puneetpal Singh Cheema<br><sub>(CE)</sub></td>
-<td align="center">Dr. Prashant Garg<br><sub>(CE)</sub></td>
-<td align="center">Dr. Narwant Singh Grewal<br><sub>(ECE)</sub></td>
-</tr>
-<tr>
-<td align="center">Dr. Baljeet Kaur<br><sub>(ECE)</sub></td>
-<td align="center">Pf. Preetinder Singh<br><sub>(EE)</sub></td>
-<td align="center">Er. Rupinderjit Singh<br><sub>(EE)</sub></td>
-<td align="center">Dr. Jasmaninder Singh Grewal<br><sub>(MPE)</sub></td>
-</tr>
-<tr>
-<td align="center">Dr. Prem Singh<br><sub>(MPE)</sub></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
+<div class="section-box">Dr. Prem Singh<br><sub>(MPE)</sub></div>
+</div>
 
----
+### <div class="section-title">Organising Committee</div>
 
-### **Organising Committee**
-
-<table width="100%">
-<tr>
-<th>Civil Engineering</th>
-<th>Electrical Engineering</th>
-<th>Electronics & Communication</th>
-<th>Mechanical & Production</th>
-</tr>
-<tr>
-<td align="center">
+<div class="grid-4">
+<div class="section-box">
+<b>Civil</b><br>
 Er. Charnjeet Singh<br>
 Er. Amandeep Singh<br>
 Er. Sukhwinderpal Singh
-</td>
-<td align="center">
+</div>
+
+<div class="section-box">
+<b>Electrical</b><br>
 Dr. Mandeep Kaur<br>
 Dr. Ranvir Kaur<br>
 Er. Balwinder Singh
-</td>
-<td align="center">
+</div>
+
+<div class="section-box">
+<b>ECE</b><br>
 Er. Harminder Kaur<br>
 Dr. Gurjot Kaur Walia<br>
 Er. Kuldeepak Singh
-</td>
-<td align="center">
+</div>
+
+<div class="section-box">
+<b>MPE</b><br>
 Dr. Jatinder Pal<br>
 Dr. Gulvir Singh<br>
 Er. Jagjit Kaur
-</td>
-</tr>
-</table>
-
+</div>
 </div>
 
-## **Organized By**
+## Contact <a name="contact"></a>
 
-<div align="center">
-
-**Department of Civil Engineering**
-**Department of Electrical Engineering**
-**Department of Electronics & Communication Engineering**
-**Department of Mechanical & Production Engineering**
-
-*Guru Nanak Dev Engineering College, Ludhiana*
-
-</div>
-
-## **Contact <a name="contact"></a>**
-
-<div align="center">
+<div style="text-align:center; margin-top:20px;">
 
 **Conference Secretariat – S3T 2026**
-Guru Nanak Dev Engineering College, Ludhiana, Punjab, India
+Guru Nanak Dev Engineering College, Ludhiana
 
-**Email:** [s3t.gndec@gmail.com](mailto:s3t.gndec@gmail.com)
+Email: [s3t.gndec@gmail.com](mailto:s3t.gndec@gmail.com)
 
-**Contact Persons:**
 Dr. Yuvraj Singh (CE): +91 9815830889
 Dr. Arvind Dhingra (EE): +91 9814163429
 Dr. Chahat Jain (ECE): +91 7837005620
@@ -326,13 +305,9 @@ Dr. Raman Kumar (MPE): +91 9855100530
 
 <div align="center">
 
----
-
-**Guru Nanak Dev Engineering College, Ludhiana**
-*Innovation • Sustainability • Engineering for the Future*
+Guru Nanak Dev Engineering College, Ludhiana
+Innovation • Sustainability • Engineering for the Future
 
 © 2026 S3T Congress | GNDEC Ludhiana
 
 </div>
-
----
