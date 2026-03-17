@@ -5,10 +5,7 @@
 <h1 align="center">S3T 2026</h1>
 
 <p align="center">
-<b>National Student Congress on Smart & Sustainable Technologies</b>
-</p>
-
-<p align="center">
+<b>National Student Congress on Smart & Sustainable Technologies</b><br>
 <b>Guru Nanak Dev Engineering College, Ludhiana</b>
 </p>
 
@@ -19,295 +16,126 @@
 <img src="https://img.shields.io/badge/GNDEC-Ludhiana-darkgreen?style=flat-square">
 </p>
 
+---
+
+## Submission & Registration
+
+### Abstract Submission
 <p align="center">
-<a href="#home"><b>Home</b></a> •
-<a href="#tracks"><b>Tracks</b></a> •
-<a href="Downloads/Brochure_S3T-2026.png"><b>Brochure</b></a> •
-<a href="Downloads/Full_Paper_Template.docx"><b>Full Paper Template</b></a> •
-<a href="#submission"><b>Submission</b></a> •
-<a href="#important-dates"><b>Important Dates</b></a> •
-<a href="#organizing-committee"><b>Organizing Committee</b></a> •
-<a href="#contact"><b>Contact</b></a>
+<a href="https://tinyurl.com/GNDEC-S3T-2026"><b>Submit Abstract</b></a><br>
+<img src="assets/QRcode_abstract.png" width="150">
 </p>
 
+### Full Paper Submission
 <p align="center">
-<img src="assets/Banner_S3T.png" width="950">
+<a href="https://tinyurl.com/GNDEC-S3T-2026-full%20paper"><b>Submit Full Paper</b></a><br>
+<img src="assets/QRcode_fullpaper.png" width="150">
 </p>
 
----
-
-## Home <a name="home"></a>
-
+### Registration (After Acceptance)
 <p align="center">
-The <b>Student Congress on Smart & Sustainable Technologies (S3T 2026)</b> is a multidisciplinary academic event hosted at  
-<b>Guru Nanak Dev Engineering College, Ludhiana</b>.
-
-The congress provides a platform for <b>undergraduate students, postgraduate students, and research scholars</b> to present innovative ideas, research findings, and engineering solutions addressing real-world challenges.
-
-Aligned with the vision of <b>Viksit Bharat @ 2047</b>, S3T 2026 promotes <b>innovation, sustainability, and interdisciplinary collaboration</b> among the next generation of engineers.
+<a href="https://tinyurl.com/GNDEC-S3T-2026-Registration"><b>Register & Payment Details</b></a><br>
+<img src="assets/QRcode_Registration.png" width="150">
 </p>
 
----
-
-## Conference Themes & Tracks <a name="tracks"></a>
-
-<table width="100%">
-<tr>
-
-<td width="25%" valign="top" style="background:#eef6ff; padding:18px; border-radius:10px;">
-<b style="color:#003366;">Track 1 – Civil Engineering</b><br>
-<i>Sustainable Infrastructure & Resilient Built Environment</i>
-<ul>
-<li>Structural Health Monitoring & Retrofitting</li>
-<li>Durable & Sustainable Construction Materials</li>
-<li>Smart Cities & Urban Infrastructure</li>
-<li>Geotechnical Engineering & Ground Improvement Technologies</li>
-<li>Transportation Engineering & Smart Mobility</li>
-<li>Water Resources & Environmental Engineering</li>
-<li>Disaster Mitigation & Structural Safety</li>
-<li>Building Information Modelling</li>
-</ul>
-</td>
-
-<td width="25%" valign="top" style="background:#fff5e6; padding:18px; border-radius:10px;">
-<b style="color:#cc6600;">Track 2 – Electrical Engineering</b><br>
-<i>Smart Energy Systems & Electrification</i>
-<ul>
-<li>Renewable Energy Systems & Integration</li>
-<li>Smart Grids and Energy Storage</li>
-<li>Energy Storage Systems</li>
-<li>Power Electronics & Drives</li>
-<li>Electric Vehicles and Charging Infrastructure</li>
-<li>Energy Efficiency and Sustainability</li>
-<li>High Voltage Engineering & Power Systems</li>
-<li>Smart and efficient electrical machines</li>
-</ul>
-</td>
-
-<td width="25%" valign="top" style="background:#eefbea; padding:18px; border-radius:10px;">
-<b style="color:#2c7a2c;">Track 3 – Electronics & Communication</b><br>
-<i>Future-Ready Electronics: AI, IoT & 6G for Sustainable Innovation</i>
-<ul>
-<li>Sustainable & Green Electronics</li>
-<li>Embedded Systems & IoT</li>
-<li>AI/ML in Electronics</li>
-<li>VLSI & Nanoelectronics</li>
-<li>Biomedical & Healthcare Electronics</li>
-<li>5G and 6G communication technologies in RF and Optics</li>
-<li>Emerging Technologies</li>
-</ul>
-</td>
-
-<td width="25%" valign="top" style="background:#f4f0ff; padding:18px; border-radius:10px;">
-<b style="color:#5a3ea1;">Track 4 – Mechanical & Production</b><br>
-<i>Smart Manufacturing & Sustainable Mechanical Systems</i>
-<ul>
-<li>Smart and Digital Manufacturing</li>
-<li>Advanced and Sustainable Materials Engineering</li>
-<li>Renewable and Thermal Energy Systems</li>
-<li>Sustainable Product Design and Lifecycle Engineering</li>
-<li>Robotics, Mechatronics and Intelligent Automation</li>
-<li>Computational Engineering and Multiphysics Simulation</li>
-<li>Computational Engineering</li>
-<li>Energy Efficiency and Decarbonization in Mechanical Systems </li>
-</ul>
-</td>
-
-</tr>
-</table>
+> **Note:** Each student author must register individually to receive a participation/presentation certificate.
 
 ---
 
-## Important Dates <a name="important-dates"></a>
+## Registration & Payment Details
 
-| Activity | Date |
-|------|------|
-| Abstract Submission Deadline | <s>15 March 2026</s> 18 March 2026 (extended) |
-| Abstract Acceptance | 18 March 2026 |
-| Registration Deadline | 20 March 2026 |
-| Full Paper Submission | 25 March 2026 |
-| Final Acceptance | 30 March 2026 |
-| Congress Dates | 07–08 April 2026 |
+**Account Name:** Students Chapter Institution of Engineers  
+**Bank:** Punjab & Sind Bank, Gill GNE Ludhiana  
+**Account No.:** 00211000082393  
+**IFSC Code:** PSIB0000021  
 
 ---
 
-## Paper Submission <a name="submission"></a>
+## Organizing Committee
 
-Authors are invited to submit **4–5 page technical papers** related to the conference themes.  
-**[Download Full Paper Template](Downloads/Full_Paper_Template.docx)**
-
-Accepted submissions may include:
-
-- Review Papers  
-- Experimental Studies  
-- Case Studies  
-- Technology Development  
-- Analytical Studies  
-
-All accepted and presented papers will be published in the **S3T 2026 Conference Proceedings (ISBN).**
-
----
-
-## Conference Fee
-
-| Category | Fee |
-|------|------|
-| UG / PG Students | ₹100 |
-| Research Scholars | ₹100 |
-
----
-
-## Quick Links
-
+### Chief Patron
 <p align="center">
-
-<a href="Downloads/Brochure_S3T-2026.png">
-<img src="https://img.shields.io/badge/Download-Brochure-purple?style=for-the-badge">
-</a>
-
-&nbsp;
-
-<a href="Downloads/Full_Paper_Template.docx">
-<img src="https://img.shields.io/badge/Download-Full%20Paper%20Template-blue?style=for-the-badge">
-</a>
-
-&nbsp;
-
-<a href="#submission">
-<img src="https://img.shields.io/badge/Submit-Paper-green?style=for-the-badge">
-</a>
-
-&nbsp;
-
-<a href="#tracks">
-<img src="https://img.shields.io/badge/View-Conference%20Tracks-orange?style=for-the-badge">
-</a>
-
-</p>
-
----
-
-## Organizing Committee <a name="organizing-committee"></a>
-
-<style>
-.grid-4 {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 12px;
-  text-align: center;
-}
-.section-box {
-  padding: 10px;
-  border-radius: 8px;
-  background: #f5f7fa;
-}
-.section-title {
-  text-align: center;
-  font-weight: bold;
-  font-size: 1.2rem;
-  margin-top: 20px;
-}
-</style>
-
-### <div class="section-title">Chief Patron</div>
-
-<div class="grid-4">
-<div class="section-box">
 Dr. Sehijpal Singh<br>
 <sub>Principal, GNDEC Ludhiana</sub>
-</div>
-</div>
+</p>
 
-### <div class="section-title">Patrons</div>
+---
 
-<div class="grid-4">
-<div class="section-box">Dr. Jagbir Singh<br><sub>(HoD, CE)</sub></div>
-<div class="section-box">Dr. Munish Rattan<br><sub>(HoD, ECE)</sub></div>
-<div class="section-box">Dr. Kanwardeep Singh<br><sub>(HoD, EE)</sub></div>
-<div class="section-box">Dr. Harmeet Singh<br><sub>(HoD, MPE)</sub></div>
-</div>
+### Patrons
+<p align="center">
+Dr. Jagbir Singh (HoD, CE) &nbsp; | &nbsp;
+Dr. Munish Rattan (HoD, ECE) &nbsp; | &nbsp;
+Dr. Kanwardeep Singh (HoD, EE) &nbsp; | &nbsp;
+Dr. Harmeet Singh (HoD, MPE)
+</p>
 
-### <div class="section-title">Convenors</div>
+---
 
-<div class="grid-4">
-<div class="section-box">Dr. Yuvraj Singh<br><sub>(CE)</sub></div>
-<div class="section-box">Dr. Gurpuneet Kaur<br><sub>(ECE)</sub></div>
-<div class="section-box">Dr. Chahat Jain<br><sub>(ECE)</sub></div>
-<div class="section-box">Dr. Arvind Dhingra<br><sub>(EE)</sub></div>
+### Convenors
+<p align="center">
+Dr. Yuvraj Singh (CE) &nbsp; | &nbsp;
+Dr. Gurpuneet Kaur (ECE) &nbsp; | &nbsp;
+Dr. Chahat Jain (ECE) &nbsp; | &nbsp;
+Dr. Arvind Dhingra (EE)<br><br>
+Dr. Raman Kumar (MPE) &nbsp; | &nbsp;
+Dr. Chamkaur Jindal (MPE)
+</p>
 
-<div class="section-box">Dr. Raman Kumar<br><sub>(MPE)</sub></div>
-<div class="section-box">Dr. Chamkaur Jindal<br><sub>(MPE)</sub></div>
-</div>
+---
 
-### <div class="section-title">Advisory Committee</div>
+### Advisory Committee
+<p align="center">
+Dr. Harvinder Singh (Dean, R&C) &nbsp; | &nbsp;
+Dr. Puneetpal Singh Cheema (CE) &nbsp; | &nbsp;
+Dr. Prashant Garg (CE) &nbsp; | &nbsp;
+Dr. Narwant Singh Grewal (ECE)<br><br>
 
-<div class="grid-4">
-<div class="section-box">Dr. Harvinder Singh<br><sub>(Dean, R&C)</sub></div>
-<div class="section-box">Dr. Puneetpal Singh Cheema<br><sub>(CE)</sub></div>
-<div class="section-box">Dr. Prashant Garg<br><sub>(CE)</sub></div>
-<div class="section-box">Dr. Narwant Singh Grewal<br><sub>(ECE)</sub></div>
+Dr. Baljeet Kaur (ECE) &nbsp; | &nbsp;
+Pf. Preetinder Singh (EE) &nbsp; | &nbsp;
+Er. Rupinderjit Singh (EE) &nbsp; | &nbsp;
+Dr. Jasmaninder Singh Grewal (MPE)<br><br>
 
-<div class="section-box">Dr. Baljeet Kaur<br><sub>(ECE)</sub></div>
-<div class="section-box">Pf. Preetinder Singh<br><sub>(EE)</sub></div>
-<div class="section-box">Er. Rupinderjit Singh<br><sub>(EE)</sub></div>
-<div class="section-box">Dr. Jasmaninder Singh Grewal<br><sub>(MPE)</sub></div>
+Dr. Prem Singh (MPE)
+</p>
 
-<div class="section-box">Dr. Prem Singh<br><sub>(MPE)</sub></div>
-</div>
+---
 
-### <div class="section-title">Organising Committee</div>
+### Organising Committee
 
-<div class="grid-4">
-<div class="section-box">
-<b>Civil</b><br>
-Er. Charnjeet Singh<br>
-Er. Amandeep Singh<br>
-Er. Sukhwinderpal Singh
-</div>
+**Civil Engineering**  
+Er. Charnjeet Singh | Er. Amandeep Singh | Er. Sukhwinderpal Singh  
 
-<div class="section-box">
-<b>Electrical</b><br>
-Dr. Mandeep Kaur<br>
-Dr. Ranvir Kaur<br>
-Er. Balwinder Singh
-</div>
+**Electrical Engineering**  
+Dr. Mandeep Kaur | Dr. Ranvir Kaur | Er. Balwinder Singh  
 
-<div class="section-box">
-<b>ECE</b><br>
-Er. Harminder Kaur<br>
-Dr. Gurjot Kaur Walia<br>
-Er. Kuldeepak Singh
-</div>
+**Electronics & Communication Engineering**  
+Er. Harminder Kaur | Dr. Gurjot Kaur Walia | Er. Kuldeepak Singh  
 
-<div class="section-box">
-<b>MPE</b><br>
-Dr. Jatinder Pal<br>
-Dr. Gulvir Singh<br>
-Er. Jagjit Kaur
-</div>
-</div>
+**Mechanical & Production Engineering**  
+Dr. Jatinder Pal | Dr. Gulvir Singh | Er. Jagjit Kaur  
 
-## Contact <a name="contact"></a>
+---
 
-<div style="text-align:center; margin-top:20px;">
+## Contact
 
-**Conference Secretariat – S3T 2026**
-Guru Nanak Dev Engineering College, Ludhiana
+<p align="center">
 
-Email: [s3t.gndec@gmail.com](mailto:s3t.gndec@gmail.com)
+**Conference Secretariat – S3T 2026**  
+Guru Nanak Dev Engineering College, Ludhiana  
 
-Dr. Yuvraj Singh (CE): +91 9815830889
-Dr. Arvind Dhingra (EE): +91 9814163429
-Dr. Chahat Jain (ECE): +91 7837005620
-Dr. Raman Kumar (MPE): +91 9855100530
+Email: s3t.gndec@gmail.com  
 
-</div>
+Dr. Yuvraj Singh (CE): +91 9815830889  
+Dr. Arvind Dhingra (EE): +91 9814163429  
+Dr. Chahat Jain (ECE): +91 7837005620  
+Dr. Raman Kumar (MPE): +91 9855100530  
 
-<div align="center">
+</p>
 
-Guru Nanak Dev Engineering College, Ludhiana
-Innovation • Sustainability • Engineering for the Future
+---
 
+<p align="center">
+Guru Nanak Dev Engineering College, Ludhiana<br>
+Innovation • Sustainability • Engineering for the Future<br><br>
 © 2026 S3T Congress | GNDEC Ludhiana
-
-</div>
+</p>
