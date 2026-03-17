@@ -123,8 +123,14 @@ Authors are invited to submit **4–5 page technical papers** aligned with confe
 </p>
 
 <p align="center">
+<b>Registration Form and Payment Details Submission</b><br>
+<a href="https://tinyurl.com/GNDEC-S3T-2026-Registration">Register and Submit Payment Details</a><br>
+<img src="assets/QRcode_Registration.png" width="130">
+</p>
+
+<p align="center">
 <b>Full Paper Submission</b><br>
-<a href="https://tinyurl.com/GNDEC-S3T-2026-full%20paper">Submit Full Paper</a><br>
+<a href="https://tinyurl.com/GNDEC-S3T-2026-fullpaper">Submit Full Paper</a><br>
 <img src="assets/QRcode_fullpaper.png" width="130">
 </p>
 
