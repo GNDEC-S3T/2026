@@ -109,7 +109,8 @@ Aligned with the vision of **Viksit Bharat @ 2047**, the congress promotes:
 
 ## Submission Guidelines <a name="submission"></a>
 
-Authors are invited to submit **4–5 page technical papers** aligned with conference themes.
+Authors are invited to submit **4–5 page technical papers** aligned with the conference themes.  
+All submissions must be original and adhere to standard academic integrity norms.
 
 ### Types of Submissions
 - Review Papers  
@@ -117,7 +118,13 @@ Authors are invited to submit **4–5 page technical papers** aligned with confe
 - Case Studies  
 - Analytical & Simulation Work  
 
-### Submission Links
+### Plagiarism & AI Policy
+- The overall similarity index of the manuscript must be **less than 20%**.  
+- Content generated using AI tools must not exceed **15%** of the manuscript.  
+- Proper citation and referencing are mandatory for all borrowed content.  
+- Submissions not complying with these guidelines may be **rejected without review**. 
+
+## Submission Links
 
 <p align="center">
 <b>Abstract Submission</b><br>
@@ -245,13 +252,9 @@ Dr. Jatinder Pal • Dr. Gulvir Singh • Er. Jagjit Kaur
 Guru Nanak Dev Engineering College, Ludhiana
 </p>
 
-<br>
-
 <p align="center">
 ✉️ <a href="mailto:s3t.gndec@gmail.com">s3t.gndec@gmail.com</a>
 </p>
-
-<br>
 
 <p align="center">
 <b>Dr. Yuvraj Singh (CE)</b> &nbsp;&nbsp;|&nbsp;&nbsp; +91 9815830889<br>
