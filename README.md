@@ -237,6 +237,7 @@ Dr. Jatinder Pal • Dr. Gulvir Singh • Er. Jagjit Kaur
 </p>
 
 ---
+
 ## Contact <a name="contact"></a>
 
 <p align="center">
@@ -246,34 +247,18 @@ Guru Nanak Dev Engineering College, Ludhiana
 
 <br>
 
-<table align="center" width="70%" cellpadding="8">
+<p align="center">
+✉️ <a href="mailto:s3t.gndec@gmail.com">s3t.gndec@gmail.com</a>
+</p>
 
-<tr>
-<td><b>Email</b></td>
-<td><a href="mailto:s3t.gndec@gmail.com">s3t.gndec@gmail.com</a></td>
-</tr>
+<br>
 
-<tr>
-<td><b>Dr. Yuvraj Singh</b></td>
-<td>+91 9815830889</td>
-</tr>
-
-<tr>
-<td><b>Dr. Arvind Dhingra</b></td>
-<td>+91 9814163429</td>
-</tr>
-
-<tr>
-<td><b>Dr. Chahat Jain</b></td>
-<td>+91 7837005620</td>
-</tr>
-
-<tr>
-<td><b>Dr. Raman Kumar</b></td>
-<td>+91 9855100530</td>
-</tr>
-
-</table>
+<p align="center">
+<b>Dr. Yuvraj Singh (CE)</b> &nbsp;&nbsp;|&nbsp;&nbsp; +91 9815830889<br>
+<b>Dr. Arvind Dhingra (EE)</b> &nbsp;&nbsp;|&nbsp;&nbsp; +91 9814163429<br>
+<b>Dr. Chahat Jain (ECE)</b> &nbsp;&nbsp;|&nbsp;&nbsp; +91 7837005620<br>
+<b>Dr. Raman Kumar (ME)</b> &nbsp;&nbsp;|&nbsp;&nbsp; +91 9855100530
+</p>
 
 ---
 
