@@ -38,7 +38,7 @@ After payment, please upload the proof in the registration form.
 Authors are required to submit a **4–5 page full-length paper**.
 
 👉 Download Template:
-[Download Full Paper Template](Downloads/Full_Paper_Template.docx)
+[Download Full Paper Template](\Downloads/Full_Paper_Template.docx)
 
 👉 Submit Paper:
 [https://tinyurl.com/GNDEC-S3T-2026-fullpaper](https://tinyurl.com/GNDEC-S3T-2026-fullpaper)
