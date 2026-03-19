@@ -4,8 +4,10 @@
 
 Dear Author(s),
 
-We are pleased to inform you that your abstract has been **accepted for presentation** at the **Student Congress on Smart & Sustainable Technologies (S3T 2026)**
+We are pleased to inform you that your abstract has been **accepted for presentation** at the **National Student Congress on Smart & Sustainable Technologies (S3T 2026)**
 to be held at **Guru Nanak Dev Engineering College, Ludhiana**.
+
+Your paper has been assigned the Paper ID: __________. Kindly use this ID for all future correspondence.
 
 ### 🔹 Next Steps
 
