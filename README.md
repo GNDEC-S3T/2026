@@ -200,12 +200,12 @@ Dr. Sehijpal Singh
 Dr. Jagbir Singh (CE) • Dr. Munish Rattan (ECE) • Dr. Kanwardeep Singh (EE) • Dr. Harmeet Singh (MPE)
 
 ### Convenors  
-Dr. Yuvraj Singh • Dr. Gurpuneet Kaur • Dr. Chahat Jain • Dr. Arvind Dhingra  
-Dr. Raman Kumar • Dr. Chamkaur Jindal  
+Dr. Yuvraj Singh (CE) • Dr. Gurpuneet Kaur (ECE) • Dr. Chahat Jain (ECE) • Dr. Arvind Dhingra  (EE)
+Dr. Raman Kumar (MPE) • Dr. Chamkaur Jindal (MPE)
 
 ### Advisory Committee  
-Dr. Harvinder Singh • Dr. Puneetpal Singh Cheema • Dr. Prashant Garg • Dr. Narwant Singh Grewal  
-Dr. Baljeet Kaur • Pf. Preetinder Singh • Er. Rupinderjit Singh • Dr. Jasmaninder Singh Grewal • Dr. Prem Singh  
+Dr. Harvinder Singh (Dean, R & C) • Dr. Puneetpal Singh Cheema (CE) • Dr. Prashant Garg (CE) • Dr. Narwant Singh Grewal (ECE)
+Dr. Baljeet Kaur (ECE) • Pf. Preetinder Singh (EE) • Er. Rupinderjit Singh (EE) • Dr. Jasmaninder Singh Grewal (MPE) • Dr. Prem Singh (MPE)
 
 ### Organising Committee  
 
